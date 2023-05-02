@@ -1,4 +1,15 @@
-- 👋 Hi
+
+<details>
+<summary>:eyes: </summary> 
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouKaia&show_icons=true&theme=transparent)
+   
+</details>
+<details>
+<summary>:eyes: </summary>
+- 👋 Hi   
+</details>
+
 
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nial4">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouKaia">
