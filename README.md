@@ -8,7 +8,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/KouKaia/count.svg)
 
 <details>
 <summary>:eyes: </summary> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouKaia&show_icons=true&theme=transparent)
+![gitHub stats](https://github-readme-stats.vercel.app/api?username=KouKaia&show_icons=true&theme=transparent)
 </details>
 
 <details>
